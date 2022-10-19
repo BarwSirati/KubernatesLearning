@@ -40,7 +40,7 @@ kubectl delete pod/service --all
 kubectl delete all --all
 ```
 
-- ดู Service ทั้ง
+- ดู Service ทั้งหมด
 ```bash
 kubectl get services
 ```
