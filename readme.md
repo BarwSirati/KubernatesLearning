@@ -37,6 +37,7 @@ kubectl delete servicce myyservice
 - ลบ pod หรือ service ทั้งหมด
 ```bash
 kubectl delete pod/service --all
+-------------------------------------------------
 kubectl delete all --all
 ```
 
